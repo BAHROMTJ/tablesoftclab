@@ -1,0 +1,54 @@
+{
+  "stud": [
+    {
+      "name": " Bahrom Sharifzoda",
+      "id": 57,
+      "day1": "0",
+      "day2": "0",
+      "day3": "0",
+      "day4": "11",
+      "exam": "0",
+      "suma": "4"
+    },
+    {
+      "name": "Virkan Shirinov",
+      "id": 53,
+      "day1": "0",
+      "day2": "0",
+      "day3": "2",
+      "day4": "9",
+      "exam": "0",
+      "suma": "4"
+    },
+    {
+      "name": "Rahimjon Berdiev",
+      "id": 58,
+      "day1": "0",
+      "day2": "0",
+      "day3": "2",
+      "day4": "0",
+      "exam": "0",
+      "suma": "4"
+    },
+    {
+      "name": "Mustafo Mahmudov",
+      "id": 40,
+      "day1": "0",
+      "day2": "0",
+      "day3": "2",
+      "day4": "0",
+      "exam": "0",
+      "suma": "4"
+    },
+    {
+      "name": "Abdugafor Sokiev",
+      "id": 73,
+      "day1": "0",
+      "day2": "0",
+      "day3": "2",
+      "day4": "0",
+      "exam": "0",
+      "suma": "4"
+    }
+  ]
+}
